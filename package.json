@@ -1,0 +1,24 @@
+{
+  "name": "com",
+  "version": "1.0.0",
+  "description": "Ecommerce rest api",
+  "main": "Server.js",
+  "scripts": {
+    "Start": "node Server.js",
+    "Server": "nodemon server.js"
+  },
+  "keywords": [],
+  "author": "PriyanshuVerma",
+  "license": "MIT",
+  "type": "module",
+  "dependencies": {
+    "bcrypt": "^5.1.1",
+    "colors": "^1.4.0",
+    "dotenv": "^16.4.7",
+    "express": "^4.21.2",
+    "jsonwebtoken": "^9.0.2",
+    "mongoose": "^8.10.1",
+    "morgan": "^1.10.0",
+    "nodemon": "^3.1.9"
+  }
+}
