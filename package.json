@@ -7,7 +7,7 @@
     "Start": "node Server.js",
     "Server": "nodemon server.js",
     "client": "npm start --prefix ./client",
-    "dev": "concurrently \"npm run Server\" \npm client\""
+    "dev": "concurrently \"npm run server\" \"npm run client\""
   },
   "keywords": [],
   "author": "PriyanshuVerma",
@@ -24,6 +24,7 @@
     "jsonwebtoken": "^9.0.2",
     "mongoose": "^8.10.1",
     "morgan": "^1.10.0",
+    "motion": "^12.5.0",
     "nodemon": "^3.1.9"
   }
 }

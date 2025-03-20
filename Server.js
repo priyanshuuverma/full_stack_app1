@@ -7,6 +7,7 @@ import authRoute from "./routes/authRoute.js";
 import cors from "cors";
 //configure env
 dotenv.config();
+
 const app = express();
 //connect db
 connectDB();
