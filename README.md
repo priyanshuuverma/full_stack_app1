@@ -1,3 +1,6 @@
+server is running on https://full-stack-app1.onrender.com/ just backend 
+
+
 front end images :
 
 ![Screenshot 2025-03-29 161759](https://github.com/user-attachments/assets/50cd0c69-3fbe-4927-8d5a-05b659aa4051)
